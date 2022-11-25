@@ -1,12 +1,12 @@
 
-# nest-admin
+# nestjs 后台权限管理系统
 
 #### 介绍
-使用 NestJs 开发的权限管理系统  前端配合使用react
+使用 NestJs 开发的权限管理系统
 
 
 #### 软件架构
-本项目采用 Node + NestJs + Typeorm + Mysql 
+本项目采用 Node + NestJs + Typeorm + Mysql +redis
 
 
 #### 使用说明
